@@ -1,0 +1,28 @@
+{
+  "name": "@koreets61/tbankqr",
+  "version": "1.0.0",
+  "description": "Реализация пакета NPM для NodeJS реализующая получение QR СБП кода, через процессинг Банка Т-Банк (Тинькофф)",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Koreets61/TBANKQR.git"
+  },
+  "keywords": [
+    "QR",
+    "TBANK",
+    "Т-Банк",
+    "ТБАНК"
+  ],
+  "publishConfig": {
+    "@koreets61:tbankqr": "https://npm.pkg.github.com"
+  },
+  "author": "koreets61@gmail.com",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Koreets61/TBANKQR/issues"
+  },
+  "homepage": "https://github.com/Koreets61/TBANKQR#readme"
+}
